@@ -5,8 +5,6 @@
 i'm a student and developer focused on **C++ and competitive programming**.
 currently improving my algorithmic thinking, data structures and problem-solving skills through olympiad programming and real projects.
 
----
-
 ## competitive programming
 
 my main programming language is **C++**.
@@ -21,8 +19,6 @@ int main() {
     cout << "bye world\n";
 }
 ```
-
----
 
 ## tech stack
 
@@ -44,8 +40,6 @@ int main() {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square\&logo=raspberrypi\&logoColor=white)
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-
----
 
 ## my goals
 
