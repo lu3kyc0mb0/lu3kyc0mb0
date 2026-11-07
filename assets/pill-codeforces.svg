@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="36" viewBox="0 0 220 36">
+<clipPath id="c"><rect width="220" height="36" rx="18"/></clipPath>
+<g clip-path="url(#c)"><rect width="110" height="36" fill="#9F8D79"/><rect x="110" width="110" height="36" fill="#3A3027"/></g>
+<rect x="0.5" y="0.5" width="219" height="35" rx="17.5" fill="none" stroke="#9F8D79"/>
+<text x="55.0" y="23" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#3A3027">codeforces</text>
+<text x="165.0" y="23" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#FEF4D0">lu3kyc0mb0</text></svg>
