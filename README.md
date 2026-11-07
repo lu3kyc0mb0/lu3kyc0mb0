@@ -1,24 +1,13 @@
-<div align="center">
+# hi, i'm lu3kyc0mb0
 
-<img src="assets/banner.svg" alt="lu3kyc0mb0" width="100%" />
+> **C++ • competitive programming**
 
-<a href="https://codeforces.com/profile/lu3kyc0mb0"><img src="assets/pill-codeforces.svg" alt="codeforces" height="36" /></a>
-
-</div>
-
-## projects
-
-<table>
-  <tr>
-    <td width="33%"><a href="https://github.com/lu3kyc0mb0/cfhelper"><img src="assets/card-cfhelper.svg" alt="cfhelper" /></a></td>
-    <td width="33%"><a href="https://github.com/lu3kyc0mb0/movieshelf"><img src="assets/card-movieshelf.svg" alt="movieshelf" /></a></td>
-    <td width="33%"><a href="https://github.com/lu3kyc0mb0/air2win"><img src="assets/card-air2win.svg" alt="air2win" /></a></td>
-  </tr>
-</table>
+i'm a student and developer focused on **C++ and competitive programming**.
+currently improving my algorithmic thinking, data structures and problem-solving skills through competitive programming and projects.
 
 ## competitive programming
 
-my main language is **C++**. usual template:
+my main programming language is **C++**
 
 ```cpp
 #include <bits/stdc++.h>
@@ -33,6 +22,17 @@ signed main() {
 
 ## tech stack
 
-<img src="assets/stack.svg" alt="tech stack" width="100%" />
+### languages
 
-<img src="assets/footer.svg" alt="return 0;" width="100%" />
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+
+### web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+
+### hardware
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square\&logo=raspberrypi\&logoColor=white)
+![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)

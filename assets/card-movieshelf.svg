@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="290" height="200" viewBox="0 0 290 200">
-<rect x="0.5" y="0.5" width="289" height="199" rx="14" fill="#3A3027" stroke="#9F8D79" stroke-opacity="0.45"/>
-<text x="28" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700" fill="#FEF4D0">movieshelf</text>
-<text x="28" y="68" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#D1BCB7">desktop app</text>
-<text x="28" y="98" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#FEF4D0" fill-opacity="0.88">personal movie library: TMDB</text><text x="28" y="119" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#FEF4D0" fill-opacity="0.88">search, reviews, ratings,</text><text x="28" y="140" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#FEF4D0" fill-opacity="0.88">collections and stats.</text><text x="28" y="161" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#FEF4D0" fill-opacity="0.88">english, russian, kazakh.</text>
-<line x1="28" y1="162" x2="262" y2="162" stroke="#9F8D79" stroke-opacity="0.35"/>
-<text x="28" y="184" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#9F8D79">python / pyside6 / qml</text>
-</svg>
