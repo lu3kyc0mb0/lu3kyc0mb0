@@ -13,7 +13,7 @@ my main programming language is **C++**
 #include <bits/stdc++.h>
 #define int int64_t
 using namespace std;
-signed main() {
+signed main(){
     ios::sync_with_stdio(0);
     cin.tie(0);
     cout << "bye world\n";
